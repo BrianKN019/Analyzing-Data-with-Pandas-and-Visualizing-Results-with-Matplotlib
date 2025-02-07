@@ -11,11 +11,11 @@ Submit a Jupyter notebook (.ipynb file) or Python script (.py file) containing:
 - Data loading and exploration steps.
 - Basic data analysis results.
 - Visualizations.
-- Findings or observations.
+- Findings or observations.  
 
 ---
 
-## Task 1: Load and Explore the Dataset
+## Task 1: Load and Explore the Dataset. 
 
 In this task, we loaded a dataset of coffee types and spending patterns to analyze customer behavior. The dataset contains the following columns:
 - `coffee_name`: Type of coffee.
